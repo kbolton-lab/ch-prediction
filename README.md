@@ -31,3 +31,6 @@ The application requires a CSV file with the following columns:
 - **mcv**: Mean corpuscular volume (fL).
 - **rdw**: Red blood cell distribution width (%).
 - **plt**: Platelet count (10^9 cells/L).
+
+## Contact
+For questions or comments, please contact [Duc Tran](<mailto:tran.n@wustl.edu>), [Armel Batchi-Bouyou](<mailto:a.batchi-bouyou@wustl.edu>), or [Kelly L. Bolton](<mailto:bolton@wustl.edu>).
